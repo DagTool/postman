@@ -75,7 +75,7 @@ pm.test("User ID and email are correct", function () {
 });
 ```
 * **Hình ảnh kết quả:**
-![GET User By ID](screenshots/02_get_user_by_id.png)
+![GET User By ID](![alt text](image-1.png))
 
 ---
 
@@ -102,7 +102,7 @@ pm.test("Verify created name and job", function () {
 });
 ```
 * **Hình ảnh kết quả:**
-![POST Create User](screenshots/03_post_create_user.png)
+![POST Create User](![alt text](image-3.png))
 
 ---
 
@@ -128,7 +128,7 @@ pm.test("Verify updated response", function () {
 });
 ```
 * **Hình ảnh kết quả:**
-![PUT Update User](screenshots/04_put_update_user.png)
+![PUT Update User](![alt text](image-4.png))
 
 ---
 
@@ -141,7 +141,7 @@ pm.test("Status code is 204 No Content", function () {
 });
 ```
 * **Hình ảnh kết quả:**
-![DELETE User](screenshots/05_delete_user.png)
+![DELETE User](![alt text](image-5.png))
 
 ---
 
@@ -154,7 +154,7 @@ pm.test("Status code is 404 Not Found", function () {
 });
 ```
 * **Hình ảnh kết quả:**
-![GET 404 Not Found](screenshots/06_get_not_found.png)
+![GET 404 Not Found](![alt text](image-6.png))
 
 ---
 
