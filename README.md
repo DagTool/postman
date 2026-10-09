@@ -1,10 +1,7 @@
 # BÁO CÁO BÀI TẬP LAB 7: KIỂM THỬ API VỚI POSTMAN
 
-* **Môn học:** Kiểm thử phần mềm / Software Testing
+* ** Software Testing
 * **Họ và tên sinh viên:** Đặng Đắc Tú
-* **Mã sinh viên:** 23010619
-* **Lớp:** CNTT7-k17
-* **Link GitHub Repo:** https://github.com/DagTool/postman
 
 ---
 
@@ -158,15 +155,6 @@ pm.test("Status code is 404 Not Found", function () {
 
 ---
 
-### 4.7. Chạy tự động Collection Runner
-* **Mô tả:** Sử dụng tính năng Collection Runner của Postman để thực thi tự động toàn bộ 6 kịch bản trên.
-* **Thời gian phản hồi:** Tất cả request chạy thành công không có lỗi.
-* **Hình ảnh kết quả Collection Runner:**
-*(Chụp màn hình Runner summary hiển thị toàn bộ Tests PASS màu xanh lá)*
-![Collection Runner](screenshots/07_collection_runner.png)
-
----
-
 ## 5. File đính kèm trong Repo
 1. `README.md`: Báo cáo chi tiết quá trình kiểm thử và kết quả.
 2. `screenshots/`: Thư mục chứa các ảnh chụp màn hình minh chứng kết quả kiểm thử.
@@ -177,4 +165,4 @@ pm.test("Status code is 404 Not Found", function () {
 ## 6. Kết luận & Đánh giá
 - Nắm vững quy trình kiểm thử API RESTful từ khâu phân tích Endpoint, gửi Request đến kiểm tra Response.
 - Sử dụng thành thạo Test Scripts bằng JavaScript trong Postman để tự động hóa việc assert kết quả.
-- Tận dụng Postman Runner để giảm thời gian kiểm thử hồi quy (Regression Testing).
+
