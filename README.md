@@ -56,7 +56,7 @@ pm.test("Response contains page info", function () {
 ```
 * **Hình ảnh kết quả:**
 *(Chụp màn hình Postman hiển thị Params, Status 200, Response Body và tab Test Results: PASS)*
-![GET List Users](screenshots/01_get_users.png)
+![GET List Users](![alt text](image.png))
 
 ---
 
